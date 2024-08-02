@@ -47,14 +47,19 @@ Here are some screenshots of the Aero VPN app:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/CodeWithCrescent/Flutter-Connectun-VPN ```
+   git clone https://github.com/CodeWithCrescent/Flutter-Connectun-VPN
 
 2. Navigate to the project directory:
 
-```
-cd aero-vpn
-Install dependencies:
-flutter pub get
-Run the app:
+    ```bash
+    cd aero-vpn
 
-flutter run```
+3. Install dependencies:
+
+    ```bash
+    flutter pub get
+
+4. Run the app:
+
+    ```bash
+    flutter run
