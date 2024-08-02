@@ -1,0 +1,85 @@
+{
+  "StatusMsg": "OK",
+  "Results": {
+    "US": {
+      "Name": "United States",
+      "type": "free"
+    },
+    "GB": {
+      "Name": "United Kingdom",
+      "type": "premium"
+    },
+    "CA": {
+      "Name": "Canada",
+      "type": "free"
+    },
+    "DE": {
+      "Name": "Germany",
+      "type": "premium"
+    },
+    "FR": {
+      "Name": "France",
+      "type": "premium"
+    },
+    "AU": {
+      "Name": "Australia",
+      "type": "free"
+    },
+    "JP": {
+      "Name": "Japan",
+      "type": "free"
+    },
+    "NL": {
+      "Name": "Netherlands",
+      "type": "premium"
+    },
+    "SE": {
+      "Name": "Sweden",
+      "type": "free"
+    },
+    "SG": {
+      "Name": "Singapore",
+      "type": "free"
+    },
+    "CH": {
+      "Name": "Switzerland",
+      "type": "premium"
+    },
+    "IT": {
+      "Name": "Italy",
+      "type": "free"
+    },
+    "ES": {
+      "Name": "Spain",
+      "type": "premium"
+    },
+    "NO": {
+      "Name": "Norway",
+      "type": "premium"
+    },
+    "DK": {
+      "Name": "Denmark",
+      "type": "free"
+    },
+    "IN": {
+      "Name": "India",
+      "type": "free"
+    },
+    "MX": {
+      "Name": "Mexico",
+      "type": "free"
+    },
+    "RU": {
+      "Name": "Russia",
+      "type": "premium"
+    },
+    "BR": {
+      "Name": "Brazil",
+      "type": "free"
+    },
+    "ZA": {
+      "Name": "South Africa",
+      "type": "free"
+    }
+  }
+}
