@@ -2,17 +2,6 @@
 
 Connectun VPN is a Flutter-based mobile application that provides a sleek and modern user interface for VPN services. The design of this application is inspired by [Ehsan Moin's Dribbble shot](https://dribbble.com/shots/11087166-Aero-VPN), with additional customizations and enhancements.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Design and Inspiration](#design-and-inspiration)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 
 Connectun VPN offers a clean and user-friendly interface to help users connect securely to the internet through a VPN service. This application is designed with simplicity and efficiency in mind.
@@ -33,14 +22,38 @@ The UI design of Connectun VPN is inspired by [Ehsan Moin's Dribbble shot](https
 
 Here are some screenshots of the Aero VPN app:
 
-![Home Screen](screenshots/home_screen.png)
-*Home Screen*
+<table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
+  <tr style="border-bottom: 1px solid #ddd;">
+    <td style="padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/bce76806-75e8-4eb4-ab28-4d0897bf4f98" alt="Home Screen" width="300" height="auto" style="border-radius: 8px;">
+      <p><em>Home Screen</em></p>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/7f7905f6-1b10-42ec-b33d-5d70ada449a4" alt="Side Menu" width="300" height="auto" style="border-radius: 8px;">
+      <p><em>Side Menu</em></p>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/a28fa7f2-30a5-419f-9f30-9d11d973026b" alt="Try Premium Plan" width="300" height="auto" style="border-radius: 8px;">
+      <p><em>Try Premium Plan</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/c03f0e2e-45ec-49a2-9f2d-397f6405dda2" alt="Change Location" width="300" height="auto" style="border-radius: 8px;">
+      <p><em>Change Location</em></p>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/af453c42-9673-43db-b6ba-22dc67b6aba1" alt="Connecting Screen" width="300" height="auto" style="border-radius: 8px;">
+      <p><em>Connecting Screen</em></p>
+    </td>
+    <td style="padding: 10px; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/3231e91f-c6a3-49fe-ac81-cebecf281eba" alt="Connected Screen" width="300" height="auto" style="border-radius: 8px;">
+      <p><em>Connected Screen</em></p>
+    </td>
+  </tr>
+</table>
 
-![Server Selection](screenshots/server_selection.png)
-*Server Selection*
 
-![Connection Status](screenshots/connection_status.png)
-*Connection Status*
 
 ## Installation
 
@@ -52,7 +65,7 @@ Here are some screenshots of the Aero VPN app:
 2. Navigate to the project directory:
 
     ```bash
-    cd aero-vpn
+    cd Flutter-Connectun-VPN
 
 3. Install dependencies:
 
